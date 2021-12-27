@@ -17,7 +17,6 @@ setup(
     author_email="mitrovich888@gmail.com",
     description=DESCRIPTION,
     long_description = long_description,
-    long_description_content_type = text/markdown,
     url = 'https://github.com/mile888/gp-approx',
     packages=find_packages(),
     install_requires=['numpy', 'scipy', 'pandas'],
