@@ -14,10 +14,11 @@ setup(
     name="gp-approx",
     version='1.0',
     author="Mile Mitrovic",
-    author_email="mitrovich888@gmail.com",
+    author_email="milemitrovic888@gmail.com",
     description=DESCRIPTION,
     long_description = long_description,
     url = 'https://github.com/mile888/gp-approx',
+    download_url = 'https://github.com/mile888/gp-approx/archive/refs/tags/1.0.tar.gz'
     packages=find_packages(),
     install_requires=['numpy', 'scipy', 'pandas'],
     keywords=['machine learning', 'gaussian process', 'python', 'taylor approximation', 'moment matching'],
