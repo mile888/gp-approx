@@ -18,7 +18,7 @@ setup(
     description=DESCRIPTION,
     long_description = long_description,
     url = 'https://github.com/mile888/gp-approx',
-    download_url = 'https://github.com/mile888/gp-approx/archive/refs/tags/1.0.tar.gz'
+    download_url = 'https://github.com/mile888/gp-approx/archive/refs/tags/1.0.tar.gz',
     packages=find_packages(),
     install_requires=['numpy', 'scipy', 'pandas'],
     keywords=['machine learning', 'gaussian process', 'python', 'taylor approximation', 'moment matching'],
