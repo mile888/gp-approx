@@ -7,3 +7,11 @@ Multiple-Step-Ahead Prediction](http://www.dcs.gla.ac.uk/~rod/publications/GirRa
 using Gaussian Processes](https://spiral.imperial.ac.uk/bitstream/10044/1/13927/10/thesis_mpd_corrected.pdf)
 
 # Instalation 
+
+**Dependecies**
+gp-approx requires:
+
+- Python (>= 3.8)
+- NumPy (>= 1.17.3)
+- SciPy (>= 1.3.2)
+- CasAdi (>= )
