@@ -29,3 +29,6 @@ or clone this repository:
 ```
 git clone https://github.com/mile888/gp-approx.git
 ```
+
+# 
+![](figures/segmentation.png)
