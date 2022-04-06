@@ -18,4 +18,9 @@ gp-approx requires:
 - Pandas (>= 1.2.3)
 
 **User installation**
-The easiest way to install gp-approx is using 'pip'
+
+The easiest way to install gp-approx is using `pip`:
+
+```
+pip install gp-approx
+```
