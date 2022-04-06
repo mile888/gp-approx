@@ -15,4 +15,7 @@ gp-approx requires:
 - Python (>= 3.7.4)
 - NumPy (>= 1.19.2)
 - SciPy (>= 1.3.1)
-- CasAdi (>= 3.5.5)
+- Pandas (>= 1.2.3)
+
+**User installation**
+The easiest way to install gp-approx is using .pip
