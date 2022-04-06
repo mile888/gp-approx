@@ -9,9 +9,10 @@ using Gaussian Processes](https://spiral.imperial.ac.uk/bitstream/10044/1/13927/
 # Instalation 
 
 **Dependecies**
+
 gp-approx requires:
 
-- Python (>= 3.8)
-- NumPy (>= 1.17.3)
-- SciPy (>= 1.3.2)
-- CasAdi (>= )
+- Python (>= 3.7.4)
+- NumPy (>= 1.19.2)
+- SciPy (>= 1.3.1)
+- CasAdi (>= 3.5.5)
