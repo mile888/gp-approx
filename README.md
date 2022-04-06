@@ -24,3 +24,8 @@ The easiest way to install gp-approx is using `pip`:
 ```
 pip install gp-approx
 ```
+
+or clone this repository:
+```
+git clone https://github.com/mile888/gp-approx.git
+```
