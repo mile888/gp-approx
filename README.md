@@ -31,4 +31,4 @@ git clone https://github.com/mile888/gp-approx.git
 ```
 
 # 
-![](figures/segmentation.png)
+![](figures/toy_example.png)
